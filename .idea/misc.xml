@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/bg_list.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/bg_round.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/but1.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/but2.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/grad.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/drawable/round_gret.xml" value="0.407" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/activity_main.xml" value="0.5552536231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/dialog.xml" value="0.5552536231884058" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/fragment_game.xml" value="0.5229748934154429" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/fragment_score.xml" value="0.5" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/fragment_settings.xml" value="0.67" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/fragment_start.xml" value="0.5" />
+        <entry key="..\:/Users/boris/StudioProjects/SportingHokkey/app/src/main/res/layout/list_item.xml" value="0.5552536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
